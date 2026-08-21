@@ -14,6 +14,7 @@ My strongest work sits where product thinking meets implementation: shaping an a
 | [PulseGuard](https://github.com/Vic-Orlands/pulseguard-app) | A TypeScript and Go observability stack spanning errors, logs, metrics, traces, sessions, and Dockerized infrastructure |
 | [Component Prune](https://github.com/Vic-Orlands/component-prune) | A TypeScript CLI and npm package for identifying unused components in modern frontend projects |
 | [Chikọta](https://github.com/Vic-Orlands/Chikota) | A focused SvelteKit product with authentication, PostgreSQL persistence, organization, and reminder workflows |
+| [Bible Study](https://github.com/Vic-Orlands/bible-study) | A private and community study experience with rich scripture linking, notes, discussions, and reference-aware navigation |
 
 ## Areas I work in
 
