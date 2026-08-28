@@ -15,6 +15,7 @@ My strongest work sits where product thinking meets implementation: shaping an a
 | [Component Prune](https://github.com/Vic-Orlands/component-prune) | A TypeScript CLI and npm package for identifying unused components in modern frontend projects |
 | [Chikọta](https://github.com/Vic-Orlands/Chikota) | A focused SvelteKit product with authentication, PostgreSQL persistence, organization, and reminder workflows |
 | [Bible Study](https://github.com/Vic-Orlands/bible-study) | A private and community study experience with rich scripture linking, notes, discussions, and reference-aware navigation |
+| [Codex Meter](https://github.com/Vic-Orlands/codex-meter) | A privacy-first SwiftUI menu-bar app and portable CLI for Codex and Cursor usage, local credentials, and account switching |
 
 ## Areas I work in
 
